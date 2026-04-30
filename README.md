@@ -152,25 +152,6 @@ EDA is performed using Jupyter notebooks to analyze:
 
 <img width="1005" height="547" alt="cb6b729223e8a5fd836daf7a9ccce4283614b00c" src="https://github.com/user-attachments/assets/0a3a9db1-6db1-4926-9720-8bf4866a85ac" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-```
-![Revenue Graph](images/revenue.png)
-![Trend Graph](images/trend.png)
-```
-
----
-
 ## 📝 Logging
 
 * Logs ingestion process
@@ -200,6 +181,8 @@ EDA is performed using Jupyter notebooks to analyze:
 ## 👨‍💻 Author
 
 **Vishal Biswas**
+## Linkdin
+https://www.linkedin.com/in/vishal-biswas-829962345/
 
 ---
 
