@@ -1,4 +1,4 @@
-<img width="1488" height="990" alt="2a516b8369169701c046f55e77d1dce2d2a9396e" src="https://github.com/user-attachments/assets/3aaf86b0-4c9d-4655-a56a-b40bad744988" /># 📊 Vendor Performance Analysis & Data Pipeline
+# 📊 Vendor Performance Analysis & Data Pipeline
 
 🚀 A complete **Data Analysis + Data Ingestion Project** built using Python to analyze vendor performance and generate business insights.
 
